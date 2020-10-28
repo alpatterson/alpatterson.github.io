@@ -1,6 +1,6 @@
 ## Projects
 
-[Temperature Research Buoy](/pages/buoy.md)
+[Temperature Research Buoy](/buoy/buoy.md)
 
 ## News
 
