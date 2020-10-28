@@ -1,6 +1,6 @@
 ## Projects
 
-[Temperature Research Buoy](/buoy/buoy.md)
+[Temperature Research Buoy](https://github.com/alpatterson/buoy)
 
 ## News
 
